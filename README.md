@@ -1,2 +1,3 @@
 # iNotes
-Creates and edit's txt files
+Contributors
+- Gallardo, Izyne Howie S.
