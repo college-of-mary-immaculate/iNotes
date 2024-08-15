@@ -1,4 +1,4 @@
 # iNotes
-- A simple text file manager created in python language.
+- A simple text file manager created with python language.
 # Contributor
 - Gallardo, Izyne Howie S.
